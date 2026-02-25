@@ -18,6 +18,9 @@ Platform untuk mencocokkan UMKM/SME dengan nano influencers lokal berdasarkan bu
 - **Framework**: React.js + Vite
 - **Deployment**: Tencent EdgeOne Pages
 - **Development**: VS Code, Edgeone CLI, IDE Plugin
+- **Icon** : Gunakan fontawesome sebagai icon.
+- **CSS Framework** : Tailwind CSS.
+- **Template** : Gunakan warna flat design dengan color pallete dan gunakan warna hitam dan turunannya.
 
 ### Tools
 - **Code Editor**: VS Code
@@ -42,7 +45,7 @@ EdgeOne Pages
 ## Application Architecture
 ### Pages & Components
 ```
-- Homepage 
+- Homepage (Bagian Hero, gunakan headline besar dan jangan bagi 2 layar)
 - About
 - Influencer Listing 
 - Influencer Detail 
@@ -50,6 +53,7 @@ EdgeOne Pages
 - AI Recommendations
 - Terms & Conditions
 - Authentication Pages
+
 ```
 
 ### Data Models
